@@ -93,4 +93,4 @@ https://youtu.be/FMcVf6nKdI0
 
 UML:
 in git hub repo
-![alt text](https://github.umn.edu/umn-csci-3081w-f24-sec010/team-006-finalproject/blob/ziebo012-fixed/UML-Final%20project%203081.pdf)
+![alt text](https://github.com/jamasheikh25-prog/drone-simulator/blob/main/team-006-finalproject-ziebo012-fixed/UML-Final%20project%203081.pdf)
